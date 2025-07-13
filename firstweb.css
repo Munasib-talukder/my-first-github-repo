@@ -14,7 +14,9 @@
 /* main style */
 .main {
     max-width: 1140px;
-    margin: o auto;
+    margin: 0 auto;
+    align-items: center;
+
 
 }
 
@@ -152,3 +154,13 @@ nav li a {
 }
 
 .skill-description {}
+
+/* resume section style */
+.resume-container {
+    display: flex;
+    gap: 500px;
+}
+
+.rcvmargin {
+    margin-top: 50px;
+}
