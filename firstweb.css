@@ -164,3 +164,21 @@ nav li a {
 .rcvmargin {
     margin-top: 50px;
 }
+
+/* footer style */
+.footer {
+    padding: 130px 230px;
+    display: flex;
+}
+
+.footer-colum {
+    display: flex;
+    gap: 120px;
+    width: 50%;
+}
+
+.frrr {
+    height: 100px;
+    width: 24px;
+    margin: 10px;
+}
